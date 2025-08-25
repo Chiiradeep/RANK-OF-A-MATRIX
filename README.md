@@ -27,6 +27,8 @@ rank = find_rank(matrix)
 print(rank)
 ~~~
 ## Output:
+<img width="776" height="613" alt="image" src="https://github.com/user-attachments/assets/a20e9ab1-2d43-44fa-b07d-cc3190daa60b" />
+
 <img width="1407" height="279" alt="Screenshot 2025-08-18 110945" src="https://github.com/user-attachments/assets/6fd052ef-4db4-47da-a993-895a7f1660f8" />
 
 ## Result:
